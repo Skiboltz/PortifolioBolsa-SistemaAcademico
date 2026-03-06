@@ -2,6 +2,8 @@
 
 Este projeto é um protótipo de página acadêmica desenvolvido em **Java (Spring Boot)** com **Front-end em HTML, Bootstrap e Thymeleaf**, com foco em autenticação JWT, autorização baseada em roles (admin, professor, estudante) e operações CRUD.
 
+> Iniciei meu aprendizado em Java, Spring Boot e parte do ecossistema web há 5 dias. Este projeto foi desenvolvido em 2 dias como demonstração prática do cochecimento adquirido, mostrando capacidade de aprendizado rápido e aplicação em um sistema funcional.
+
 ---
 
 ## Tecnologias
